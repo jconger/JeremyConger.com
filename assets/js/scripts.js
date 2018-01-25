@@ -256,7 +256,7 @@ jQuery(function ($) {
             scrollwheel: false,
             center: myLatlng,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
-            disableDefaultUI: true,
+            disableDefaultUI: true
             //styles: styles
         }
         var map = new google.maps.Map(document.getElementById('mapCanvas'), mapOptions);
