@@ -1,9 +1,9 @@
 # JeremyConger.com
 
-# Web Page:
-<a href="http://www.jeremyconger.com"> 
+### Web Page:
+<a href="http://www.jeremyconger.com" target="_blank">JeremyConger.com<a/>
 
-# Credits: 
+### Credits: 
 
 - <a href="https://github.com/ahmedfaruk/iamx-html" target="_blank">I AM X Template</a>
 - <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
